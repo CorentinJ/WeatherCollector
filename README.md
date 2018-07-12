@@ -4,4 +4,6 @@ This script collects weather data from the NAOO and outputs a single .csv contai
 
 ![Example](https://i.imgur.com/W6SHASW.png)
 
+[Example of resulting csv file](https://puu.sh/AVf4j.csv)
+
 A description of the variables can be found [here](ftp://ftp.ncdc.noaa.gov/pub/data/gsod/GSOD_DESC.txt)
