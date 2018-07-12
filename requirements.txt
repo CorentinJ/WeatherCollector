@@ -1,0 +1,5 @@
+pathos>=0.2.1
+numpy>=1.14.2
+Shapely>=1.6.4.post1
+matplotlib>=2.2.2
+protobuf>=3.6.0
