@@ -1,6 +1,6 @@
 Python 3.6.
 
-This script collects weather data from the NAOO and outputs a single csv file containing the raw weather data for the location you selected.
+This script collects weather data from the NOAA and outputs a single csv file containing the raw weather data for the location you selected.
 
 ![Example](https://i.imgur.com/W6SHASW.png)
 
